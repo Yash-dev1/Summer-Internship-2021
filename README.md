@@ -20,3 +20,6 @@ changed, and consequently, the signal processing can be learned through the use
 of simple DNNs. Also, these techniques can also be implemented on the
 hardware simulation part.
 
+
+![image](https://github.com/Yash-dev1/Summer-Iternship-2021/assets/50799589/8e62f198-a957-46e3-b1aa-591c4b72bbd0)
+
